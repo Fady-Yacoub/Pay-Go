@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1087071811727",
+    "project_id": "payngo-c4b04",
+    "storage_bucket": "payngo-c4b04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087071811727:android:b7be64ba46aa8c577658fa",
+        "android_client_info": {
+          "package_name": "com.example.payngo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087071811727-p3hmis4unbrrrorb5drfsuhabpqvcqqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payngo2",
+            "certificate_hash": "6eb5ff40310a95ff6cdfd42f58dedd989efb74b0"
+          }
+        },
+        {
+          "client_id": "1087071811727-ekkddjnivlvelsi3p8igvqsnp43p8ase.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6iKkbV4XNMwpiGp8wjhupkzQ3Ol3qiqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087071811727-ekkddjnivlvelsi3p8igvqsnp43p8ase.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
